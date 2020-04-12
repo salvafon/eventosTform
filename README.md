@@ -6,4 +6,4 @@ En esta práctica, se pretende identificar los eventos de un formulario que se d
 de la aplicación, así como la secuencia de disparo.
 
 En el siguiente enlace vemos el código de la clase principal.
-[MainActivity.xml](https://github.com/salvafon/eventosTform/blob/master/app/src/main/java/fonseca/emmanuel/eventostform/MainActivity.java)
+[MainActivityjava](https://github.com/salvafon/eventosTform/blob/master/app/src/main/java/fonseca/emmanuel/eventostform/MainActivity.java)
