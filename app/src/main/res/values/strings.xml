@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EventosTForm</string>
+    <string name="dialog_title">Advertencia</string>
+    <string name="close_dialog">"¿Seguro que desea cerrar la app?"</string>
+    <string name="save_file_dialog">Archivo event.txt guardado</string>
+    <string name="initial_state">Hello Mobile Programming World!</string>
+    <string name="closeApp">%1s\nApp cerrada correctamente a las: %2s</string>
+    <string name="noshutApp">%1s\nNo desea salir de la app.</string>
+    <string name="onPause">%1s\nonPause</string>
+    <string name="onResume">%1s\nonResume</string>
+    <string name="onStop">%1s\nonStop</string>
+    <string name="onDestroy">%1s\nonDestroy</string>
+</resources>
