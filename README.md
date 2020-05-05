@@ -11,4 +11,4 @@ En el siguiente enlace vemos el código de la clase principal.
 
 
 El archivo APK para probar la aplicación esta en el siguiente enlace.
-[practica01.apk](https://github.com/salvafon/eventosTform/blob/master/practica02.apk)
+[practica01.apk](https://github.com/salvafon/eventosTform/raw/master/practica02.apk)
